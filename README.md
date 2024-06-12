@@ -20,3 +20,6 @@ Language Detection: Identify and label the language of each document.
 Evaluation
 Human Evaluation: Conducted to assess the contextual accuracy and readability of summaries.
 Planned Evaluation: Implementation of ROUGE scores in future updates.
+
+Installation: 
+gh repo clone Ali-Syed-Rafay/COMP8420-2024S1-Major-Project
